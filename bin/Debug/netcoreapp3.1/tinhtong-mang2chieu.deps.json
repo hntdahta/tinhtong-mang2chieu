@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "tinhtong-mang2chieu/1.0.0": {
+        "runtime": {
+          "tinhtong-mang2chieu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tinhtong-mang2chieu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
